@@ -4,5 +4,6 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "vlocity.sfdxUsername": "shantanu.mane@cunning-koala-vsvrr1.com"
+  "vlocity.sfdxUsername": "test-namqz7eyyz3h@example.com",
+  "vlocity.projectPath": "/Users/shantanu.mane/Documents/IDX enablement/IDXScratchOrg"
 }
