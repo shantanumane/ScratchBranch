@@ -1,1 +1,1 @@
-Second changed
+AND(OR(ISPICKVAL({!$Record.Status}, 'Open'),ISPICKVAL({!$Record.Status}, 'Closed')),(ISNEW() || ISCHANGED({!$Record.Opportunity__c}) ))
